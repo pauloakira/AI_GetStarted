@@ -2,7 +2,7 @@
 
 ## Proposed problem
 
-For this activity we will a linear prediction model to estimate the temperature based on salinity data. Implement a linear regression using a simple perceptron model with linear activation. This should be done using 'numpy'. For this activity, use the dataset from Kaegle listed on the Dataset section. Only two columns of the bottle.csv dataset shall be used (Salinity and T_degC). See the Support Material section for guidelines for studies.
+For this activity we will create a linear prediction model to estimate the temperature based on salinity data. Implement a linear regression using a simple perceptron model with linear activation. This should be done using 'numpy'. For this activity, use the dataset from Kaegle listed on the Dataset section. Only two columns of the bottle.csv dataset shall be used (Salinity and T_degC). See the Support Material section for guidelines for studies.
 
 Finally, write a report with the results. For this report use the LaTeX template present on this repo ('.tex' and '.bib' files).
 
