@@ -6,7 +6,9 @@ Implement a logistic regression using a basic neural network with ReLU and Sigmo
 Finally, write a report with the results. For this report use the LaTeX template present on this repo ('.tex' and '.bib' files).
 
 
-- **HINT**: Use Pandas to set up the data.
+**HINT**:
+- Use Pandas to set up the data.
+- Remember that this is a classification problem!
 
 ## Dataset
 - https://www.kaggle.com/ronitf/heart-disease-uci
