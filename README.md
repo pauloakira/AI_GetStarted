@@ -1,3 +1,3 @@
 # Getting started with AI - Activities
  
-Each folder of this repository conatins one activity to get started with AI development using Python.
+Each folder of this repository contains one activity to get started with AI development using Python.
