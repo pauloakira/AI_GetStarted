@@ -21,6 +21,8 @@ Finally, write a report with the results. For this report use the LaTeX template
 
 - What is a perceptron? https://www.youtube.com/watch?v=ntKn5TPHHAk
 
+- Mathematical definition of Perceptrons's Model: https://www.youtube.com/watch?v=4JB1j8eIGzI
+
 ### Linear Regression:
 - Pytorch Engineer - Linear Regression with Perceptron: https://www.youtube.com/watch?v=4swNt7PiamQ&list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E&index=2
 	
