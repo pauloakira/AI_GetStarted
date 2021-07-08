@@ -1,0 +1,1 @@
+Download `bottle.csv` from the [Kaggle dataset](https://www.kaggle.com/bhushankhairnar/prediction-of-temperature-based-on-salinity) and place it inside this folder!
