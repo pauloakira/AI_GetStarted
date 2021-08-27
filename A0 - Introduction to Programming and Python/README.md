@@ -1,4 +1,4 @@
-# Linear Regression with Perceptron
+# Introduction to Python and Programming
 
 ## Introduction
 
