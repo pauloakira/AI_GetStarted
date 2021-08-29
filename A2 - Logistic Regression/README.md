@@ -1,4 +1,4 @@
-# Logistic Regression using Deep Learning
+# Binary Classification using Deep Learning
 
 ## Proposed problem
 For this activity we will create a prediction model to classify if the patient tend to have a heart condition or not. Implement a logistic regression using a basic neural network with ReLU and Sigmoid activation functions. It is important to understand the role of nonlinearity on neural network architectures. Build your model testing different numbers of neurons and hidden layers to achieve best results. This task should be done using 'pytorch'. For this activity, use the dataset from Kaegle listed on the Dataset section. Note that all columns shall be used (more explanetion of the dataset is avaliable on Kaggle). See the Support Material section for guidelines for studies.
