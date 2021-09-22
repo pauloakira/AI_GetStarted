@@ -2,7 +2,9 @@
 
 ## Description
 
-This unit is dedicated to people who are having a first contact with coding world. We recommend different materials to begin learning Python, so you can see what better fits with your learning style. One option is this [free gamified course from SoloLearn](https://www.sololearn.com/learning/1157). Another good material is [this YouTube video series](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6) on Python basics. For you to start using Python on your machine, we strongly recommend to [download Anaconda and use the Spyder IDE](https://www.youtube.com/watch?v=BP4D-yaxw6E) to code and run your programms (this is a more beginner-friendly setup).
+This unit is dedicated to people who are having a first contact with coding world. We recommend different materials to begin learning Python, so you can see what better fits with your learning style. One option is this [free gamified course from SoloLearn](https://www.sololearn.com/learning/1157). If you prefer a more structured and traditional approach, [this free course from Udacity](https://www.udacity.com/course/introduction-to-python--ud1110) is a great option. Another good material is [this YouTube video series](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6) on Python basics.
+
+For you to start using Python on your machine, we strongly recommend to [download Anaconda and use the Spyder IDE](https://www.youtube.com/watch?v=BP4D-yaxw6E) to code and run your programms (this is a more beginner-friendly setup).
 
 When you feel more comfortable with programming and Python, carry out the **Proposed Projects** described below.
 
