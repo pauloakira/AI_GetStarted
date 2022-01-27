@@ -18,6 +18,8 @@ Finally, write a report with the results. For this report use the LaTeX template
 
 - [Whats is a Neural Network?](https://www.youtube.com/watch?v=aircAruvnKk)
 
+- [Math-free overview of Neural Networks](https://techcrunch.com/2017/04/13/neural-networks-made-easy/)
+
 ### Perceptron:	
 - [Introductory text about perceptron](https://www.deeplearningbook.com.br/uma-breve-historia-das-redes-neurais-artificiais/)
 
